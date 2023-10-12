@@ -1,0 +1,18 @@
+input{
+    background: #F7F7F7 !important;
+    border: 0 !important;
+    border-radius: 12px !important;
+    padding: 14px 14px 14px 14px !important;
+}
+
+.customtextarea{
+    background: #F7F7F7 !important;
+    border: 0 !important;
+    border-radius: 12px !important;
+    padding: 14px 14px 14px 14px !important;
+
+}
+
+::placeholder{
+    color: #B39999 !important;
+}

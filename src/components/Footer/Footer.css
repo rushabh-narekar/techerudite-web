@@ -1,0 +1,251 @@
+.footer-sec-area{
+    background: #FFF;
+    padding-top: 88px;
+    position: relative;
+    z-index: 10;
+}
+
+.icon-social{
+    width: 30px;
+
+}
+.social-sec{
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    margin-left: -18px;
+
+}
+
+.footer-about ul{
+    padding: 0;
+
+}
+.footer-about ul li{
+    margin-left: 10px;
+    margin-right: 10px;
+
+
+}
+
+.face-book-icon{
+    /* margin-right: 10px;
+     */
+     margin-left: 10px;
+}
+.title{
+    color: #231F20;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.footer-list ul li {
+    list-style-type: none;
+    padding: 0;
+}
+.footer-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+.footer-list ul li a{
+    color: #8D8D8D;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+}
+
+.commonParagraph2{
+    color: #8D8D8D;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+}
+
+.mainparagraph{
+    color: #8D8D8D;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.footer-area .footer-list ul li a {
+    font-size: 15px;
+    color: #8D8D8D;
+    line-height: 36px;
+    text-decoration: none;
+    transition: all .3s ease-out 0s;
+}
+
+.commonButtonfooter {
+    background: linear-gradient(90deg, #ef8431 0%, #e71a86 100%);
+    border-radius: 24px;
+    color: #fff !important;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 10px 20px 10px 20px;
+    border: none;
+    outline: none;
+  }
+
+  #footerinput::placeholder {
+    color: #FFF;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+    /* Styles for the placeholder text of the input with ID 'myInput' */
+  }
+
+  .arrow-btn{
+    width: 35px;
+    height: 35px;
+    background-color: #FFF;
+    border-radius: 35px;
+    outline: none;
+    border: none;
+    position: absolute;
+    z-index: 120;
+    right: 225px;
+    bottom: 2px;
+  }
+
+  .Human-img{
+    position: absolute;
+    bottom: 0;
+    /* transform: translateX(-50%); */
+    z-index: 2;
+    top: 245px;
+    left: 145px;
+  }
+
+  .footer-img-2{
+    width: 1519px;
+  }
+
+  .footer-img{
+    position: absolute;
+    bottom: 0;
+    /* transform: translateX(-50%); */
+    z-index: -1;
+    top: 260px;
+
+}
+  .last-img{
+    position: relative;
+    z-index: 10;
+  }
+
+  .img-last{
+    margin-left: 150px;
+    margin-bottom: 0px;
+
+  }
+.copyrigthtext{
+    color: #FFF;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 300px;
+}
+  .new-container{
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    z-index: 13;
+    justify-content: center;
+    align-items: center;
+
+  }
+
+  .input-container {
+    padding-bottom: 1em;
+  }
+  .left-inner-addon {
+      position: relative;
+  }
+  .left-inner-addon input {
+      padding-left: 35px !important; 
+  }
+  .left-inner-addon i {
+      position: absolute;
+      padding: 12px 12px;
+      pointer-events: none;
+  }
+  
+  
+  .right-inner-addon {
+      position: relative;
+  }
+  .right-inner-addon input {
+      padding-right: 35px !important;
+  }
+  .right-inner-addon i {
+      position: absolute;
+      right: 0px;
+      padding: 12px 12px;
+      pointer-events: none;
+      background: #fff;
+      border-radius: 50%;
+      height: 40px;
+      width: 40px;
+      margin: 6px;
+      display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .left-and-right-inner-addon {
+      position: relative;
+  }
+  .left-and-right-inner-addon input {
+      padding-right: 35px !important;
+      padding-left: 35px !important;
+  }
+  .left-and-right-inner-addon i.left {
+      position: absolute;
+      padding: 12px 12px;
+      pointer-events: none;
+  }
+  .left-and-right-inner-addon i.right {
+      position: absolute;
+      right: 0px;
+      padding: 12px 12px;
+      pointer-events: none;
+  }
+  
+  
+  .right-inner-addon-b {
+      position: relative;
+  }
+  .right-inner-addon-b input {
+      padding-right: 35px !important;
+  }
+  .right-inner-addon-b i {
+      position: absolute;
+      right: 0px;
+      padding: 9px 12px;
+      pointer-events: none;
+  }
+  
+.customGradientInput{
+  background: linear-gradient(90deg, #EF8431 0%, #E71A86 100%) !important;
+  border-radius: 24px !important;
+}
+
+.customGradientInput::placeholder{
+  color: #fff !important;
+}

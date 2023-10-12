@@ -1,0 +1,16 @@
+.brandParagraphMargin{
+    margin: 30px 0px 30px 0px;
+}
+
+.missionBg{
+    background: #fbfafb;
+    padding: 40px 0px 0px 0px;
+}
+
+.missionTextBigger {
+    margin-top: 20px;
+    font-weight: 900;
+    font-size: 210px;
+    color: #f0f2f3;
+    text-transform: uppercase;
+}

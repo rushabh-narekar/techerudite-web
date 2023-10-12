@@ -1,0 +1,30 @@
+.brandParagraphMargin {
+  margin: 30px 0px 30px 0px;
+}
+
+.areaBg {
+  background: #fbfafb;
+  padding: 40px 0px 30px 0px;
+}
+
+.missionTextBigger {
+  margin-top: 20px;
+  font-weight: 900;
+  font-size: 210px;
+  color: #f0f2f3;
+  text-transform: uppercase;
+}
+
+.card-text-custom {
+  color: #231f20;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.hoverCard{
+    border: 0;
+}
+.hoverCard:hover{
+    box-shadow: 0 0 15px;
+}
