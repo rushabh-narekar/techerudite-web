@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/techerudite-web/static/css/main.ffc3ca01.css",
+    "main.js": "/techerudite-web/static/js/main.69f79955.js",
+    "static/js/787.d0f353d3.chunk.js": "/techerudite-web/static/js/787.d0f353d3.chunk.js",
+    "static/media/Footer image.png": "/techerudite-web/static/media/Footer image.4038923c18e54998387f.png",
+    "static/media/Path 305.png": "/techerudite-web/static/media/Path 305.b59a9b685ea5157f0f73.png",
+    "static/media/Rectangle 80.png": "/techerudite-web/static/media/Rectangle 80.e1e2053599116a57e3b1.png",
+    "static/media/Team-cuate 1.svg": "/techerudite-web/static/media/Team-cuate 1.f18cce90277ebfdc66874059322edb53.svg",
+    "static/media/aboutusVector.png": "/techerudite-web/static/media/aboutusVector.6c3dd129542570c3dfc8.png",
+    "static/media/Ellipse 162.png": "/techerudite-web/static/media/Ellipse 162.db88852634cc453eabf4.png",
+    "static/media/VisionVector.png": "/techerudite-web/static/media/VisionVector.0cd0bf4d144b88ddc674.png",
+    "static/media/MissionVector.png": "/techerudite-web/static/media/MissionVector.a7af2f31e511ce75962e.png",
+    "static/media/Group 396.png": "/techerudite-web/static/media/Group 396.8c0f894cebe0144795e0.png",
+    "static/media/twitter (1).png": "/techerudite-web/static/media/twitter (1).8e65601e69067aadfe55.png",
+    "static/media/partner2.png": "/techerudite-web/static/media/partner2.ade6226fdabfdbc995b9.png",
+    "static/media/Coffee.png": "/techerudite-web/static/media/Coffee.7be703675ea1ecf5bef1.png",
+    "static/media/Projects.png": "/techerudite-web/static/media/Projects.bfe44c0ae552f5804817.png",
+    "static/media/Logo1.svg": "/techerudite-web/static/media/Logo1.18693024940f5e866a23f0d08ef9c61b.svg",
+    "index.html": "/techerudite-web/index.html",
+    "static/media/Path 4.svg": "/techerudite-web/static/media/Path 4.7ae3358ee5763811c66c343a0eead118.svg",
+    "static/media/Ellipse 163.svg": "/techerudite-web/static/media/Ellipse 163.79cfd98d04c22a5f189a01047a4cc2ca.svg",
+    "main.ffc3ca01.css.map": "/techerudite-web/static/css/main.ffc3ca01.css.map",
+    "main.69f79955.js.map": "/techerudite-web/static/js/main.69f79955.js.map",
+    "787.d0f353d3.chunk.js.map": "/techerudite-web/static/js/787.d0f353d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffc3ca01.css",
+    "static/js/main.69f79955.js"
+  ]
+}
